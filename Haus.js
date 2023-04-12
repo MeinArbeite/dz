@@ -46,6 +46,7 @@ passwordCheck.addEventListener("click", () => {
   }
 });
 
+// 2 Hausaufgabe
 
 let left = 0;
 const block = document.querySelector(".block");
